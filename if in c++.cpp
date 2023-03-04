@@ -4,10 +4,10 @@ int main(){
 int age=0;
 cout<<"enter age:"<<endl;
 cin>>age;
-if(age>1 && age<13){
-	cout<<"you are a bb"<<endl;
+if(age>1 && age=<10){
+	cout<<"you are a chilled "<<endl;
 }
-else if(age>13 && age<18){
+else if(age>10 && age<18){
 	cout<<"you are a teen"<<endl;
 }
 else if(age>=18 && age<=200){
