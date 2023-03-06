@@ -1,6 +1,6 @@
 # Demo
 
-I learn a new programming language *C++* and impliment it using the *if-else loop* !
+I learn a new programming language *C++* and impliment it using the *if-else loop* in CPP !
 
 this code alows the user to enter his/her age
 
